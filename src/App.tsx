@@ -205,7 +205,7 @@ export default function App() {
        <header className="fixed top-0 left-0 right-0 h-20 z-40 backdrop-blur-[10px] border-b border-white/10">
           <nav className="max-w-7xl mx-auto px-10 h-full flex items-center justify-between">
              <div className="flex items-center gap-3">
-                <h1 className="text-2xl font-extrabold tracking-tighter bg-gradient-to-br from-accent-blue to-accent-violet bg-clip-text text-transparent hidden sm:block">CHRONOSPHERE</h1>
+                <h1 className="text-2xl font-extrabold tracking-tighter bg-gradient-to-br from-accent-blue to-accent-violet bg-clip-text text-transparent hidden sm:block uppercase">ASTRAVIEW OS</h1>
              </div>
 
              <div className="nav-tabs-container">
@@ -339,9 +339,9 @@ export default function App() {
                    <Navigation className="w-10 h-10 text-white -rotate-12" />
                  </div>
                  <div className="space-y-4">
-                    <h2 className="text-4xl font-black font-display tracking-tight text-white uppercase italic">Welcome to Chronosphere</h2>
+                    <h2 className="text-4xl font-black font-display tracking-tight text-white uppercase italic">Welcome to AstraView OS</h2>
                     <p className="text-slate-400 text-lg leading-relaxed">
-                      Your precision-engineered mission control for time, weather, and world-scale productivity. Let's get you synced.
+                      Your precision-engineered mission control for global time, weather, and world-scale navigation.
                     </p>
                  </div>
                  <div className="space-y-4">

@@ -1,6 +1,8 @@
 {
-  "name": "Chronosphere",
-  "description": "A high-converting, production-grade productivity dashboard combining Weather, Clock, Calendar, and Maps into a seamless, dark-mode first UI.",
-  "requestFramePermissions": ["geolocation"],
+  "name": "AstraView OS",
+  "description": "A high-performance global intelligence dashboard featuring real-time geodata, predictive weather, and orbital time tracking.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
   "majorCapabilities": []
 }

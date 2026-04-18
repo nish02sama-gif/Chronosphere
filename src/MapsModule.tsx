@@ -102,7 +102,7 @@ export default function MapsModule({ center, events }: MapsModuleProps) {
           </div>
           <div>
             <h2 className="text-3xl font-bold font-display tracking-tight text-white uppercase italic">
-              Chronosphere Maps
+              AstraView Intelligence
             </h2>
             <p className="text-xs font-bold text-slate-500 uppercase tracking-widest">Global Navigation System</p>
           </div>
