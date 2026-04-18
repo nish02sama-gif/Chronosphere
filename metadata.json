@@ -1,0 +1,6 @@
+{
+  "name": "Chronosphere",
+  "description": "A high-converting, production-grade productivity dashboard combining Weather, Clock, Calendar, and Maps into a seamless, dark-mode first UI.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": []
+}
